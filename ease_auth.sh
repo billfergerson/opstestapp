@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/js" -X POST -d '{"id": 1, "apiVersion": "1.0", "method": "com.apperian.eas.user.authenticateuser", "params": {"email": "bill.fergerson@mozido.com", "password": "t00bin"}, "jsonrpc": "2.0"}' https://easesvc.apperian.com/ease.interface.php
